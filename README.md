@@ -8,11 +8,6 @@ This project is a comprehensive tutorial that explains how to use regular expres
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Regex Breakdown](#regex-breakdown)
-- [Examples](#examples)
-- [Author](#author)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
